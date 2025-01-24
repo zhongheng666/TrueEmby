@@ -1,1 +1,2 @@
 TrueEmby
+sh -c "$(curl -L https://github.com/zhongheng666/TrueEmby/raw/refs/heads/main/4.8.10/unlock.sh)"
